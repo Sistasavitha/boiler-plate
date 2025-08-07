@@ -1,3 +1,2 @@
-module github.com/savitha/go-template
-
+module github.com/Sistasavitha/boiler-plate
 go 1.20
